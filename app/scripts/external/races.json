@@ -1,0 +1,2134 @@
+[
+  {
+    "name": "IRONMAN Western Canada Series ",
+    "location": "Canada",
+    "date": "---",
+    "raceType": "Multisport Festivals",
+    "latitude": 56.130366,
+    "longitude": -106.346771,
+    "type": "Ironman"
+  },
+  {
+    "name": "South Africa ",
+    "location": "Buffalo City, East London",
+    "date": "Jan 24th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": -33.0291582,
+    "longitude": 27.8545867,
+    "type": "Ironman"
+  },
+  {
+    "name": "Dubai ",
+    "location": "Dubai, United Arab Emirates",
+    "date": "Jan 29th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 25.2048493,
+    "longitude": 55.2707828,
+    "type": "Ironman"
+  },
+  {
+    "name": "Panama City, Panama ",
+    "location": "Pan American Pro Championship",
+    "date": "Jan 31st 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Geelong ",
+    "location": "Geelong, Victoria, Australia",
+    "date": "Feb 6th 2016",
+    "raceType": "IronKids",
+    "latitude": -38.19214059999999,
+    "longitude": 144.3904526,
+    "type": "Ironman"
+  },
+  {
+    "name": "Geelong ",
+    "location": "Geelong, Victoria, Australia",
+    "date": "Feb 7th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": -38.19214059999999,
+    "longitude": 144.3904526,
+    "type": "Ironman"
+  },
+  {
+    "name": "New Zealand ",
+    "location": "Taupo, New Zealand",
+    "date": "Mar 5th 2016",
+    "raceType": "IRONMAN",
+    "latitude": -38.6856924,
+    "longitude": 176.0702098,
+    "type": "Ironman"
+  },
+  {
+    "name": "Subic Bay Philippines ",
+    "location": "Subic Bay, Philippines",
+    "date": "Mar 6th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 14.7910576,
+    "longitude": 120.2397336,
+    "type": "Ironman"
+  },
+  {
+    "name": "Buenos Aires ",
+    "location": "Buenos Aires, Argentina",
+    "date": "Mar 6th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": -34.6036844,
+    "longitude": -58.3815591,
+    "type": "Ironman"
+  },
+  {
+    "name": "Mooloolaba Triathlon Festival ",
+    "location": "Mooloolaba, Queensland, Australia",
+    "date": "Mar 13th 2016",
+    "raceType": "Multisport Festivals",
+    "latitude": -26.6778695,
+    "longitude": 153.117347,
+    "type": "Ironman"
+  },
+  {
+    "name": "Seal Sprint Triathlon ",
+    "location": "Coronado, California",
+    "date": "Mar 20th 2016",
+    "raceType": "Sprint Triathlons",
+    "latitude": 32.6858853,
+    "longitude": -117.1830891,
+    "type": "Ironman"
+  },
+  {
+    "name": "Superseal Triathlon ",
+    "location": "Coronado, California",
+    "date": "Mar 20th 2016",
+    "raceType": "5i50",
+    "latitude": 32.6858853,
+    "longitude": -117.1830891,
+    "type": "Ironman"
+  },
+  {
+    "name": "Monterrey ",
+    "location": "Monterrey, Mexico",
+    "date": "Mar 20th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 25.6866142,
+    "longitude": -100.3161126,
+    "type": "Ironman"
+  },
+  {
+    "name": "Puerto Rico ",
+    "location": "San Juan, PR, USA",
+    "date": "Mar 20th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 18.45,
+    "longitude": -66.1,
+    "type": "Ironman"
+  },
+  {
+    "name": "Taitung, Taiwan ",
+    "location": "Taitung, Taiwan",
+    "date": "Mar 26th 2016",
+    "raceType": "5i50",
+    "latitude": 22.7972447,
+    "longitude": 121.0713702,
+    "type": "Ironman"
+  },
+  {
+    "name": "Taiwan ",
+    "location": "Taitung, Taiwan",
+    "date": "Mar 27th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 22.7972447,
+    "longitude": 121.0713702,
+    "type": "Ironman"
+  },
+  {
+    "name": "California ",
+    "location": "Oceanside, CA, USA",
+    "date": "Apr 1st 2016",
+    "raceType": "IronKids",
+    "latitude": 33.1958696,
+    "longitude": -117.3794834,
+    "type": "Ironman"
+  },
+  {
+    "name": "California ",
+    "location": "Oceanside, California, USA",
+    "date": "Apr 2nd 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 33.1958696,
+    "longitude": -117.3794834,
+    "type": "Ironman"
+  },
+  {
+    "name": "Putrajaya ",
+    "location": "Putrajaya, Malaysia",
+    "date": "Apr 3rd 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 2.926361,
+    "longitude": 101.696445,
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS South Africa ",
+    "location": "Nelson Mandela Bay, South Africa",
+    "date": "Apr 9th 2016",
+    "raceType": "IronKids",
+    "latitude": -33.7452412,
+    "longitude": 25.5681084,
+    "type": "Ironman"
+  },
+  {
+    "name": "Galveston ",
+    "location": "Galveston, TX, USA",
+    "date": "Apr 9th 2016",
+    "raceType": "IronKids",
+    "latitude": 29.3013479,
+    "longitude": -94.7976958,
+    "type": "Ironman"
+  },
+  {
+    "name": "Dip n' Dash Florida ",
+    "location": "Haines City, Florida",
+    "date": "Apr 9th 2016",
+    "raceType": "IronKids",
+    "latitude": 28.1141841,
+    "longitude": -81.61785359999999,
+    "type": "Ironman"
+  },
+  {
+    "name": "Florida ",
+    "location": "Haines City, FL, USA",
+    "date": "Apr 9th 2016",
+    "raceType": "IronKids",
+    "latitude": 28.1141841,
+    "longitude": -81.61785359999999,
+    "type": "Ironman"
+  },
+  {
+    "name": "Clearwater ",
+    "location": "Clearwater, Fl., USA",
+    "date": "Apr 10th 2016",
+    "raceType": "Iron Girl",
+    "latitude": 27.9658533,
+    "longitude": -82.8001026,
+    "type": "Ironman"
+  },
+  {
+    "name": "Gold Coast Triathlon ",
+    "location": "Luke Harrop Memorial",
+    "date": "Apr 10th 2016",
+    "raceType": "Multisport Festivals",
+    "type": "Ironman"
+  },
+  {
+    "name": "Gold Coast Triathlon ",
+    "location": "Luke Harrop Memorial",
+    "date": "Apr 10th 2016",
+    "raceType": "Sprint Triathlons",
+    "type": "Ironman"
+  },
+  {
+    "name": "Texas ",
+    "location": "Galveston, Texas, USA",
+    "date": "Apr 10th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 29.3013479,
+    "longitude": -94.7976958,
+    "type": "Ironman"
+  },
+  {
+    "name": "African Championship ",
+    "location": "Nelson Mandela Bay, South Africa",
+    "date": "Apr 10th 2016",
+    "raceType": "IRONMAN",
+    "latitude": -33.7452412,
+    "longitude": 25.5681084,
+    "type": "Ironman"
+  },
+  {
+    "name": "Florida ",
+    "location": "Haines City, Florida, USA",
+    "date": "Apr 10th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 28.1141841,
+    "longitude": -81.61785359999999,
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONMAN 70.3 South American Championship, Palmas ",
+    "location": "Palmas, Brazil",
+    "date": "Apr 10th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": -10.249091,
+    "longitude": -48.32428580000001,
+    "type": "Ironman"
+  },
+  {
+    "name": "New Orleans ",
+    "location": "New Orleans, Louisiana, USA ",
+    "date": "Apr 17th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 29.95106579999999,
+    "longitude": -90.0715323,
+    "type": "Ironman"
+  },
+  {
+    "name": "New Orleans ",
+    "location": "New Orleans, LA, USA",
+    "date": "Apr 17th 2016",
+    "raceType": "IronKids",
+    "latitude": 29.95106579999999,
+    "longitude": -90.0715323,
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS Pays D'Aix ",
+    "location": "Aix en Provence, France",
+    "date": "Apr 30th 2016",
+    "raceType": "IronKids",
+    "latitude": 43.529742,
+    "longitude": 5.447426999999999,
+    "type": "Ironman"
+  },
+  {
+    "name": "Port Macquarie ",
+    "location": "Port Macquarie, New South Wales, Australia",
+    "date": "Apr 30th 2016",
+    "raceType": "IronKids",
+    "type": "Ironman"
+  },
+  {
+    "name": "Port Macquarie ",
+    "location": "Port Macquarie, Australia ",
+    "date": "May 1st 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": -31.4312703,
+    "longitude": 152.9081313,
+    "type": "Ironman"
+  },
+  {
+    "name": "St. Croix ",
+    "location": "St. Croix, U.S. Virgin Islands",
+    "date": "May 1st 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 17.7245968,
+    "longitude": -64.83479919999999,
+    "type": "Ironman"
+  },
+  {
+    "name": "Australia ",
+    "location": "Port Macquarie, New South Wales, Australia",
+    "date": "May 1st 2016",
+    "raceType": "IRONMAN",
+    "latitude": -31.4312703,
+    "longitude": 152.9081313,
+    "type": "Ironman"
+  },
+  {
+    "name": "Busselton ",
+    "location": "Busselton, Western Australia",
+    "date": "May 1st 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": -33.6499446,
+    "longitude": 115.3446115,
+    "type": "Ironman"
+  },
+  {
+    "name": "Aix en Provence ",
+    "location": "Aix en Provence, France",
+    "date": "May 1st 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 43.529742,
+    "longitude": 5.447426999999999,
+    "type": "Ironman"
+  },
+  {
+    "name": "St. George ",
+    "location": "St. George, UT, USA",
+    "date": "TBD 2016",
+    "raceType": "IronKids",
+    "latitude": 37.0965278,
+    "longitude": -113.5684164,
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS Mallorca ",
+    "location": "Mallorca, Spain",
+    "date": "May 6th 2016",
+    "raceType": "IronKids",
+    "latitude": 39.6952629,
+    "longitude": 3.0175712,
+    "type": "Ironman"
+  },
+  {
+    "name": "Texas ",
+    "location": "The Woodlands, TX, USA",
+    "date": "May 7th 2016",
+    "raceType": "IronKids",
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONMAN 70.3 North American Pro Championship, St. George ",
+    "location": "North American Pro Championship, St. George, Utah, USA",
+    "date": "May 7th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 37.0965278,
+    "longitude": -113.5684164,
+    "type": "Ironman"
+  },
+  {
+    "name": "Mallorca ",
+    "location": "Alcudia, Mallorca, Spain",
+    "date": "May 7th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 39.8532672,
+    "longitude": 3.1240239,
+    "type": "Ironman"
+  },
+  {
+    "name": "Vietnam ",
+    "location": "Danang, Vietnam",
+    "date": "May 8th 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "North American Championship ",
+    "location": "The Woodlands, Texas, USA",
+    "date": "May 14th 2016",
+    "raceType": "IRONMAN",
+    "latitude": 30.1658207,
+    "longitude": -95.46126249999999,
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS Lanzarote ",
+    "location": "Canarias, Spain",
+    "date": "May 20th 2016",
+    "raceType": "IronKids",
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS St.Pölten ",
+    "location": "Lower Austria, Austria",
+    "date": "May 21st 2016",
+    "raceType": "IronKids",
+    "latitude": 48.10807699999999,
+    "longitude": 15.8049558,
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS Barcelona 70.3 ",
+    "location": "Barcelona, Spain",
+    "date": "May 21st 2016",
+    "raceType": "IronKids",
+    "latitude": 41.3850639,
+    "longitude": 2.1734035,
+    "type": "Ironman"
+  },
+  {
+    "name": "Lanzarote ",
+    "location": "Lanzarote, Canary Islands, Spain",
+    "date": "May 21st 2016",
+    "raceType": "IRONMAN",
+    "latitude": 29.0468535,
+    "longitude": -13.5899733,
+    "type": "Ironman"
+  },
+  {
+    "name": "Chattanooga ",
+    "location": "Chattanooga, TN, USA",
+    "date": "May 21st 2016",
+    "raceType": "IronKids",
+    "type": "Ironman"
+  },
+  {
+    "name": "Barcelona ",
+    "location": "Calella, Spain",
+    "date": "May 22nd 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 41.6134346,
+    "longitude": 2.6535552,
+    "type": "Ironman"
+  },
+  {
+    "name": "Chattanooga ",
+    "location": "Chattanooga, Tennessee",
+    "date": "May 22nd 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 35.0456297,
+    "longitude": -85.3096801,
+    "type": "Ironman"
+  },
+  {
+    "name": "St.Pölten ",
+    "location": "Lower Austria, Austria",
+    "date": "May 22nd 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 48.10807699999999,
+    "longitude": 15.8049558,
+    "type": "Ironman"
+  },
+  {
+    "name": "Shawnigan Lake ",
+    "location": "Shawnigan Lake, BC, Canada",
+    "date": "TBD 2016",
+    "raceType": "IronKids",
+    "latitude": 48.6511793,
+    "longitude": -123.6449961,
+    "type": "Ironman"
+  },
+  {
+    "name": "Noosa Ultimate Sports Festival ",
+    "location": "Noosa, Queensland, Australia",
+    "date": "May 28th 2016",
+    "raceType": "Multisport Festivals",
+    "latitude": -26.2736444,
+    "longitude": 152.7650705,
+    "type": "Ironman"
+  },
+  {
+    "name": "Shawnigan Lake Triathlon ",
+    "location": "Shawnigan Lake, British Columbia, Canada",
+    "date": "May 29th 2016",
+    "raceType": "Multisport Festivals",
+    "latitude": 48.6511793,
+    "longitude": -123.6449961,
+    "type": "Ironman"
+  },
+  {
+    "name": "South American Championship ",
+    "location": "Florianopolis, Brazil",
+    "date": "May 29th 2016",
+    "raceType": "IRONMAN",
+    "latitude": -27.5953778,
+    "longitude": -48.5480499,
+    "type": "Ironman"
+  },
+  {
+    "name": "Shawnigan Lake Triathlon ",
+    "location": "Shawnigan Lake, British Columbia, Canada",
+    "date": "May 29th 2016",
+    "raceType": "5i50",
+    "type": "Ironman"
+  },
+  {
+    "name": "Shawnigan Lake Triathlon ",
+    "location": "Shawnigan Lake, British Columbia, Canada",
+    "date": "May 29th 2016",
+    "raceType": "Sprint Triathlons",
+    "latitude": 48.6511793,
+    "longitude": -123.6449961,
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS Kraichgau ",
+    "location": "Kraichgau, Germany",
+    "date": "Jun 4th 2016",
+    "raceType": "IronKids",
+    "latitude": 49.1005098,
+    "longitude": 8.968973499999999,
+    "type": "Ironman"
+  },
+  {
+    "name": "Hawai'i ",
+    "location": "Kohala Coast, Hawai'i, USA",
+    "date": "Jun 4th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 20.242798,
+    "longitude": -155.8784284,
+    "type": "Ironman"
+  },
+  {
+    "name": "Raleigh ",
+    "location": "Raleigh, NC, USA",
+    "date": "Jun 4th 2016",
+    "raceType": "IronKids",
+    "type": "Ironman"
+  },
+  {
+    "name": "5150 Coral Coast Triathlon ",
+    "location": "Port Douglas, Queensland, Australia",
+    "date": "Jun 5th 2016",
+    "raceType": "5i50",
+    "type": "Ironman"
+  },
+  {
+    "name": "Cairns Adventure Festival ",
+    "location": "Cairns, Queensland, Australia",
+    "date": "Jun 5th 2016",
+    "raceType": "Multisport Festivals",
+    "latitude": -16.9203338,
+    "longitude": 145.7708595,
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS France ",
+    "location": "Nice, France",
+    "date": "Jun 5th 2016",
+    "raceType": "IronKids",
+    "latitude": 43.7101728,
+    "longitude": 7.261953200000001,
+    "type": "Ironman"
+  },
+  {
+    "name": "Raleigh ",
+    "location": "Raleigh, North Carolina, USA",
+    "date": "Jun 5th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 35.7795897,
+    "longitude": -78.6381787,
+    "type": "Ironman"
+  },
+  {
+    "name": "France ",
+    "location": "Nice, France",
+    "date": "Jun 5th 2016",
+    "raceType": "IRONMAN",
+    "latitude": 43.7101728,
+    "longitude": 7.261953200000001,
+    "type": "Ironman"
+  },
+  {
+    "name": "Kraichgau ",
+    "location": "Kraichgau Region, Germany",
+    "date": "Jun 5th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 48.9777143,
+    "longitude": 8.3125064,
+    "type": "Ironman"
+  },
+  {
+    "name": "Kraichgau ",
+    "location": "Kraichgau Region, Germany",
+    "date": "Jun 5th 2016",
+    "raceType": "5i50",
+    "latitude": 48.9777143,
+    "longitude": 8.3125064,
+    "type": "Ironman"
+  },
+  {
+    "name": "5150 Subic Bay Philippines ",
+    "location": "Subic Bay, Philippines",
+    "date": "Jun 5th 2016",
+    "raceType": "5i50",
+    "latitude": 14.7910576,
+    "longitude": 120.2397336,
+    "type": "Ironman"
+  },
+  {
+    "name": "Switzerland ",
+    "location": "Rapperswil-Jona, Switzerland",
+    "date": "Jun 5th 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Japan ",
+    "location": "Chita Peninsula Japan",
+    "date": "TBD 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 34.80985700000001,
+    "longitude": 136.893768,
+    "type": "Ironman"
+  },
+  {
+    "name": "Boulder ",
+    "location": "Boulder, Colorado, USA",
+    "date": "Jun 11th 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS Staffordshire ",
+    "location": "Staffordshire, England",
+    "date": "Jun 11th 2016",
+    "raceType": "IronKids",
+    "latitude": 52.8792745,
+    "longitude": -2.0571868,
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS Pescara ",
+    "location": "Pescara, Italy",
+    "date": "Jun 11th 2016",
+    "raceType": "IronKids",
+    "latitude": 42.4617902,
+    "longitude": 14.2160898,
+    "type": "Ironman"
+  },
+  {
+    "name": "Cairns ",
+    "location": "Cairns, Queensland, Australia",
+    "date": "Jun 11th 2016",
+    "raceType": "IronKids",
+    "latitude": -16.9203338,
+    "longitude": 145.7708595,
+    "type": "Ironman"
+  },
+  {
+    "name": "Italy ",
+    "location": "Abruzzo, Pescara, Italy",
+    "date": "Jun 12th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 42.4617902,
+    "longitude": 14.2160898,
+    "type": "Ironman"
+  },
+  {
+    "name": "Cairns ",
+    "location": "Cairns, Queensland, Australia",
+    "date": "Jun 12th 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Staffordshire ",
+    "location": "Staffordshire, England",
+    "date": "Jun 12th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 52.8792745,
+    "longitude": -2.0571868,
+    "type": "Ironman"
+  },
+  {
+    "name": "Eagleman ",
+    "location": "Cambridge, Maryland, USA",
+    "date": "Jun 12th 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Victoria ",
+    "location": "Victoria, British Columbia, Canada",
+    "date": "Jun 12th 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Asia-Pacific Championship ",
+    "location": "Cairns, Queensland, Australia",
+    "date": "Jun 12th 2016",
+    "raceType": "IRONMAN",
+    "latitude": -16.9203338,
+    "longitude": 145.7708595,
+    "type": "Ironman"
+  },
+  {
+    "name": "Victoria ",
+    "location": "Victoria, BC, Canada",
+    "date": "Jun 12th 2016",
+    "raceType": "IronKids",
+    "latitude": 48.4284207,
+    "longitude": -123.3656444,
+    "type": "Ironman"
+  },
+  {
+    "name": "Luxembourg ",
+    "location": "Region Moselle, Luxembourg",
+    "date": "Jun 18th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 49.0983839,
+    "longitude": 6.5527641,
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS Luxembourg ",
+    "location": "Region Moselle, Luxembourg",
+    "date": "Jun 18th 2016",
+    "raceType": "IronKids",
+    "latitude": 49.0983839,
+    "longitude": 6.5527641,
+    "type": "Ironman"
+  },
+  {
+    "name": "Syracuse ",
+    "location": "Syracuse, NY, USA",
+    "date": "Jun 18th 2016",
+    "raceType": "IronKids",
+    "latitude": 43.0481221,
+    "longitude": -76.14742439999999,
+    "type": "Ironman"
+  },
+  {
+    "name": "Syracuse ",
+    "location": "Syracuse, New York, USA",
+    "date": "Jun 19th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 43.0481221,
+    "longitude": -76.14742439999999,
+    "type": "Ironman"
+  },
+  {
+    "name": "Durban ",
+    "location": "KwaZulu-Natal, South Africa",
+    "date": "Jun 19th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": -28.5305539,
+    "longitude": 30.8958242,
+    "type": "Ironman"
+  },
+  {
+    "name": "Kronborg ",
+    "location": "Elsinore, Denmark",
+    "date": "Jun 19th 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Company Triathlon ",
+    "location": "Klagenfurt, Austria",
+    "date": "Jun 23rd 2016",
+    "raceType": "Sprint Triathlons",
+    "latitude": 46.6364598,
+    "longitude": 14.3122246,
+    "type": "Ironman"
+  },
+  {
+    "name": "Living Sky Triathlon ",
+    "location": "Saskatoon, SK, Canada",
+    "date": "Jun 25th 2016",
+    "raceType": "Sprint Triathlons",
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS Austria ",
+    "location": "Klagenfurt, Austria",
+    "date": "Jun 25th 2016",
+    "raceType": "IronKids",
+    "latitude": 46.6364598,
+    "longitude": 14.3122246,
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS Exmoor ",
+    "location": "Wimbleball, England",
+    "date": "Jun 25th 2016",
+    "raceType": "IronKids",
+    "type": "Ironman"
+  },
+  {
+    "name": "Buffalo Springs Lake ",
+    "location": "Lubbock, Texas, USA",
+    "date": "Jun 26th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 33.5778631,
+    "longitude": -101.8551665,
+    "type": "Ironman"
+  },
+  {
+    "name": "5i50 Saskatoon Triathlon ",
+    "location": "Saskatoon, Saskatchewan, Canada",
+    "date": "Jun 26th 2016",
+    "raceType": "5i50",
+    "latitude": 52.1332144,
+    "longitude": -106.6700458,
+    "type": "Ironman"
+  },
+  {
+    "name": "Mont-Tremblant ",
+    "location": "Mont-Tremblant, Quebec, Canada",
+    "date": "Jun 26th 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Coeur d'Alene ",
+    "location": "Coeur d'Alene, Idaho, USA",
+    "date": "Jun 26th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 47.6776832,
+    "longitude": -116.7804664,
+    "type": "Ironman"
+  },
+  {
+    "name": "UK Exmoor ",
+    "location": "Wimbleball, England",
+    "date": "Jun 26th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 51.0640535,
+    "longitude": -3.4694489,
+    "type": "Ironman"
+  },
+  {
+    "name": "Austria ",
+    "location": "Klagenfurt, Austria",
+    "date": "Jun 26th 2016",
+    "raceType": "IRONMAN",
+    "latitude": 46.6364598,
+    "longitude": 14.3122246,
+    "type": "Ironman"
+  },
+  {
+    "name": "Saskatoon ",
+    "location": "Saskatoon, SK, Canada",
+    "date": "TBD 2016",
+    "raceType": "IronKids",
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS Frankfurt ",
+    "location": "Frankfurt, Germany",
+    "date": "Jun 30th 2016",
+    "raceType": "IronKids",
+    "latitude": 50.1109221,
+    "longitude": 8.6821267,
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS Haugesund Norway ",
+    "location": "IRONKIDS Haugesund, Norway",
+    "date": "Jul 2nd 2016",
+    "raceType": "IronKids",
+    "latitude": 59.41358100000001,
+    "longitude": 5.267986899999999,
+    "type": "Ironman"
+  },
+  {
+    "name": "European Championship ",
+    "location": "Frankfurt, Germany",
+    "date": "Jul 3rd 2016",
+    "raceType": "IRONMAN",
+    "latitude": 50.1109221,
+    "longitude": 8.6821267,
+    "type": "Ironman"
+  },
+  {
+    "name": "Norway ",
+    "location": "Haugesund, Norway",
+    "date": "Jul 3rd 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Vancouver ",
+    "location": "Vancouver, BC, Canada",
+    "date": "TBD 2016",
+    "raceType": "IronKids",
+    "latitude": 49.2827291,
+    "longitude": -123.1207375,
+    "type": "Ironman"
+  },
+  {
+    "name": "Muncie ",
+    "location": "Muncie, Indiana, USA",
+    "date": "Jul 9th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 40.1933767,
+    "longitude": -85.3863599,
+    "type": "Ironman"
+  },
+  {
+    "name": "5i50 Vancouver Triathlon ",
+    "location": "Vancouver, BC, Canada",
+    "date": "Jul 10th 2016",
+    "raceType": "5i50",
+    "latitude": 49.2827291,
+    "longitude": -123.1207375,
+    "type": "Ironman"
+  },
+  {
+    "name": "Vineman ",
+    "location": "Windsor, California, USA",
+    "date": "Jul 10th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 38.5471327,
+    "longitude": -122.8163802,
+    "type": "Ironman"
+  },
+  {
+    "name": "Jönköping ",
+    "location": "Jönköping, Sweden",
+    "date": "Jul 10th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 57.78261370000001,
+    "longitude": 14.1617876,
+    "type": "Ironman"
+  },
+  {
+    "name": "Muskoka ",
+    "location": "Muskoka, Ontario, Canada",
+    "date": "Jul 10th 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS UK ",
+    "location": "Bolton, England",
+    "date": "Jul 16th 2016",
+    "raceType": "IronKids",
+    "latitude": 53.57686469999999,
+    "longitude": -2.4282192,
+    "type": "Ironman"
+  },
+  {
+    "name": "Racine ",
+    "location": "Racine, Wisconsin, USA",
+    "date": "Jul 17th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 42.7261309,
+    "longitude": -87.78285230000002,
+    "type": "Ironman"
+  },
+  {
+    "name": "UK ",
+    "location": "Bolton, England",
+    "date": "Jul 17th 2016",
+    "raceType": "IRONMAN",
+    "type": "Ironman"
+  },
+  {
+    "name": "Racine ",
+    "location": "Racine, Wisconsin, USA",
+    "date": "TBD 2016",
+    "raceType": "IronKids",
+    "latitude": 42.7261309,
+    "longitude": -87.78285230000002,
+    "type": "Ironman"
+  },
+  {
+    "name": "5150 Zurich ",
+    "location": "Zurich, Switzerland",
+    "date": "Jul 23rd 2016",
+    "raceType": "5i50",
+    "latitude": 47.3768866,
+    "longitude": 8.541694,
+    "type": "Ironman"
+  },
+  {
+    "name": "Canada ",
+    "location": "Whistler, BC, Canada",
+    "date": "Jul 23rd 2016",
+    "raceType": "IronKids",
+    "latitude": 50.1163196,
+    "longitude": -122.9573563,
+    "type": "Ironman"
+  },
+  {
+    "name": "Lake Placid ",
+    "location": "Lake Placid, NY, USA",
+    "date": "Jul 23rd 2016",
+    "raceType": "IronKids",
+    "latitude": 44.2794911,
+    "longitude": -73.9798713,
+    "type": "Ironman"
+  },
+  {
+    "name": "Canada ",
+    "location": "Whistler, British Columbia, Canada",
+    "date": "Jul 24th 2016",
+    "raceType": "IRONMAN",
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS Zurich ",
+    "location": "Zurich, Switzerland",
+    "date": "Jul 24th 2016",
+    "raceType": "IronKids",
+    "latitude": 47.3768866,
+    "longitude": 8.541694,
+    "type": "Ironman"
+  },
+  {
+    "name": "Lake Placid ",
+    "location": "Lake Placid, New York, USA",
+    "date": "Jul 24th 2016",
+    "raceType": "IRONMAN",
+    "latitude": 44.2794911,
+    "longitude": -73.9798713,
+    "type": "Ironman"
+  },
+  {
+    "name": "Switzerland ",
+    "location": "Zurich, Switzerland",
+    "date": "Jul 24th 2016",
+    "raceType": "IRONMAN",
+    "type": "Ironman"
+  },
+  {
+    "name": "Calgary ",
+    "location": "Calgary, Alberta, Canada",
+    "date": "Jul 24th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 51.0486151,
+    "longitude": -114.0708459,
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS Maastricht ",
+    "location": "Maastricht, The Netherlands",
+    "date": "Jul 30th 2016",
+    "raceType": "IronKids",
+    "latitude": 50.8513682,
+    "longitude": 5.6909725,
+    "type": "Ironman"
+  },
+  {
+    "name": "Vineman ",
+    "location": "Windsor, California, USA",
+    "date": "Jul 30th 2016",
+    "raceType": "IRONMAN",
+    "latitude": 38.5471327,
+    "longitude": -122.8163802,
+    "type": "Ironman"
+  },
+  {
+    "name": "Budapest ",
+    "location": "Budapest, Hungary",
+    "date": "Jul 30th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 47.497912,
+    "longitude": 19.040235,
+    "type": "Ironman"
+  },
+  {
+    "name": "5150 Budapest ",
+    "location": "Budapest, Hungary",
+    "date": "Jul 31st 2016",
+    "raceType": "5i50",
+    "type": "Ironman"
+  },
+  {
+    "name": "The Netherlands ",
+    "location": "Limburg, The Netherlands",
+    "date": "Jul 31st 2016",
+    "raceType": "IRONMAN",
+    "latitude": 51.4427238,
+    "longitude": 6.0608726,
+    "type": "Ironman"
+  },
+  {
+    "name": "Ecuador ",
+    "location": "Manta, Ecuador",
+    "date": "Jul 31st 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Otepää ",
+    "location": "Otepää, Estonia",
+    "date": "Aug 6th 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Boulder ",
+    "location": "Boulder, CO, USA",
+    "date": "Aug 6th 2016",
+    "raceType": "IronKids",
+    "latitude": 40.0149856,
+    "longitude": -105.2705456,
+    "type": "Ironman"
+  },
+  {
+    "name": "Syracuse ",
+    "location": "Syracuse, NY., USA",
+    "date": "Aug 7th 2016",
+    "raceType": "Iron Girl",
+    "latitude": 43.0481221,
+    "longitude": -76.14742439999999,
+    "type": "Ironman"
+  },
+  {
+    "name": "Grimsby ",
+    "location": "Grimsby, Ontario, Canada",
+    "date": "Aug 7th 2016",
+    "raceType": "Iron Girl",
+    "latitude": 43.1942126,
+    "longitude": -79.56241949999999,
+    "type": "Ironman"
+  },
+  {
+    "name": "Dublin ",
+    "location": "Dublin, Ireland",
+    "date": "TBD 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 53.3498053,
+    "longitude": -6.2603097,
+    "type": "Ironman"
+  },
+  {
+    "name": "Boulder ",
+    "location": "Boulder, Colorado, USA",
+    "date": "Aug 7th 2016",
+    "raceType": "IRONMAN",
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONMAN 70.3 Asia-Pacific Championship, Cebu ",
+    "location": "Cebu, Philippines",
+    "date": "Aug 7th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 10.3156992,
+    "longitude": 123.8854366,
+    "type": "Ironman"
+  },
+  {
+    "name": "Gdynia ",
+    "location": "Gdynia, Poland",
+    "date": "Aug 7th 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Vancouver ",
+    "location": "Vancouver, British Columbia, Canada",
+    "date": "Aug 7th 2016",
+    "raceType": "Iron Girl",
+    "latitude": 49.2827291,
+    "longitude": -123.1207375,
+    "type": "Ironman"
+  },
+  {
+    "name": "South America ",
+    "location": "Manta, Ecuador",
+    "date": "TBD 2016",
+    "raceType": "IronKids",
+    "latitude": -0.9676533,
+    "longitude": -80.7089101,
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS Wiesbaden ",
+    "location": "Wiesbaden, Germany",
+    "date": "Aug 13th 2016",
+    "raceType": "IronKids",
+    "latitude": 50.0782184,
+    "longitude": 8.239760799999999,
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS Budapest ",
+    "location": "Budapest, Hungary",
+    "date": "TBD 2016",
+    "raceType": "IronKids",
+    "type": "Ironman"
+  },
+  {
+    "name": "Steelhead ",
+    "location": "Benton Harbor, Michigan, USA",
+    "date": "Aug 14th 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Columbia ",
+    "location": "Columbia, MD., USA",
+    "date": "Aug 14th 2016",
+    "raceType": "Iron Girl",
+    "latitude": 39.2037144,
+    "longitude": -76.86104619999999,
+    "type": "Ironman"
+  },
+  {
+    "name": "Pleasant Prairie ",
+    "location": "Pleasant Prairie, WI., USA",
+    "date": "Aug 14th 2016",
+    "raceType": "Iron Girl",
+    "latitude": 42.5530753,
+    "longitude": -87.9334118,
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONMAN 70.3 European Championship, Wiesbaden ",
+    "location": "Wiesbaden, Germany",
+    "date": "Aug 14th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 50.0782184,
+    "longitude": 8.239760799999999,
+    "type": "Ironman"
+  },
+  {
+    "name": "Mont-Tremblant ",
+    "location": "Mont-Tremblant, Quebec, Canada",
+    "date": "Aug 19th 2016",
+    "raceType": "IronKids",
+    "latitude": 46.1184616,
+    "longitude": -74.5961852,
+    "type": "Ironman"
+  },
+  {
+    "name": "Timberman Sprint ",
+    "location": "Lake Winnipesaukee, NH",
+    "date": "Aug 20th 2016",
+    "raceType": "Sprint Triathlons",
+    "type": "Ironman"
+  },
+  {
+    "name": "5150 Bela Bela ",
+    "location": "Bela Bela, South Africa",
+    "date": "Aug 20th 2016",
+    "raceType": "5i50",
+    "latitude": -24.8450587,
+    "longitude": 28.2409671,
+    "type": "Ironman"
+  },
+  {
+    "name": "Sweden ",
+    "location": "Kalmar, Sweden",
+    "date": "Aug 20th 2016",
+    "raceType": "IRONMAN",
+    "type": "Ironman"
+  },
+  {
+    "name": "Coeur d'Alene ",
+    "location": "Coeur d'Alene, ID, USA",
+    "date": "Aug 20th 2016",
+    "raceType": "IronKids",
+    "latitude": 47.6776832,
+    "longitude": -116.7804664,
+    "type": "Ironman"
+  },
+  {
+    "name": "Coeur d'Alene ",
+    "location": "Coeur d'Alene, Idaho, USA",
+    "date": "Aug 21st 2016",
+    "raceType": "IRONMAN",
+    "latitude": 47.6776832,
+    "longitude": -116.7804664,
+    "type": "Ironman"
+  },
+  {
+    "name": "Mont-Tremblant ",
+    "location": "Mont-Tremblant, Quebec, Canada",
+    "date": "Aug 21st 2016",
+    "raceType": "IRONMAN",
+    "latitude": 46.1184616,
+    "longitude": -74.5961852,
+    "type": "Ironman"
+  },
+  {
+    "name": "Timberman ",
+    "location": "Gilford, New Hampshire, USA",
+    "date": "Aug 21st 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Copenhagen ",
+    "location": "Copenhagen, Denmark",
+    "date": "Aug 21st 2016",
+    "raceType": "IRONMAN",
+    "type": "Ironman"
+  },
+  {
+    "name": "Ohio ",
+    "location": "Delaware, Ohio, USA",
+    "date": "Aug 21st 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Seattle ",
+    "location": "Seattle, WA, USA",
+    "date": "TBD 2016",
+    "raceType": "IronKids",
+    "latitude": 47.6062095,
+    "longitude": -122.3320708,
+    "type": "Ironman"
+  },
+  {
+    "name": "Seattle ",
+    "location": "Seattle, WA., USA",
+    "date": "TBD 2016",
+    "raceType": "Iron Girl",
+    "type": "Ironman"
+  },
+  {
+    "name": "Brazil-Paraguay ",
+    "location": "Foz do Iguaçu, Brazil",
+    "date": "Aug 27th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": -25.5163356,
+    "longitude": -54.58537639999999,
+    "type": "Ironman"
+  },
+  {
+    "name": "Vichy ",
+    "location": "France, Vichy",
+    "date": "Aug 27th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 46.131859,
+    "longitude": 3.425488,
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS Vichy ",
+    "location": "Vichy, France",
+    "date": "Aug 27th 2016",
+    "raceType": "IronKids",
+    "type": "Ironman"
+  },
+  {
+    "name": "Vichy ",
+    "location": "France, Vichy",
+    "date": "Aug 28th 2016",
+    "raceType": "IRONMAN",
+    "latitude": 46.131859,
+    "longitude": 3.425488,
+    "type": "Ironman"
+  },
+  {
+    "name": "Bintan ",
+    "location": "Bintan, Indonesia",
+    "date": "Aug 28th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 1.1367041,
+    "longitude": 104.4257533,
+    "type": "Ironman"
+  },
+  {
+    "name": "Zell am See-Kaprun ",
+    "location": "Salzburg, Austria",
+    "date": "Aug 28th 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Muskoka ",
+    "location": "Muskoka, ON, Canada",
+    "date": "TBD 2016",
+    "raceType": "IronKids",
+    "latitude": 45.1841122,
+    "longitude": -79.4084652,
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS Zell am See-Kaprun ",
+    "location": "Salzburg, Austria",
+    "date": "TBD 2016",
+    "raceType": "IronKids",
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONMAN 70.3 World Championship ",
+    "location": "Mooloolaba, Queensland, Australia",
+    "date": "Sep 4th 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Des Moines ",
+    "location": "Grey's Lake, Des Moines, IA ",
+    "date": "TBD 2016",
+    "raceType": "IronKids",
+    "latitude": 41.56990700000001,
+    "longitude": -93.64078099999999,
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS Ruegen ",
+    "location": "Ruegen, Germany",
+    "date": "Sep 10th 2016",
+    "raceType": "IronKids",
+    "latitude": 54.3519967,
+    "longitude": 13.3630491,
+    "type": "Ironman"
+  },
+  {
+    "name": "Wisconsin ",
+    "location": "Madison, WI, USA",
+    "date": "Sep 10th 2016",
+    "raceType": "IronKids",
+    "latitude": 43.0730517,
+    "longitude": -89.4012302,
+    "type": "Ironman"
+  },
+  {
+    "name": "Wisconsin ",
+    "location": "Madison, Wisconsin, USA",
+    "date": "Sep 11th 2016",
+    "raceType": "IRONMAN",
+    "latitude": 43.0730517,
+    "longitude": -89.4012302,
+    "type": "Ironman"
+  },
+  {
+    "name": "Ruegen ",
+    "location": "Ruegen, Germany",
+    "date": "Sep 11th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 54.3519967,
+    "longitude": 13.3630491,
+    "type": "Ironman"
+  },
+  {
+    "name": "Santa Cruz ",
+    "location": "Santa Cruz, California, USA",
+    "date": "Sep 11th 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Weymouth ",
+    "location": "Dorset, UK",
+    "date": "Sep 11th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 50.7487635,
+    "longitude": -2.3444786,
+    "type": "Ironman"
+  },
+  {
+    "name": "Aarhus ",
+    "location": "Aarhus, Denmark",
+    "date": "Sep 11th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 56.162939,
+    "longitude": 10.203921,
+    "type": "Ironman"
+  },
+  {
+    "name": "Weymouth ",
+    "location": "Dorset, UK",
+    "date": "Sep 11th 2016",
+    "raceType": "IRONMAN",
+    "type": "Ironman"
+  },
+  {
+    "name": "Banff ",
+    "location": "Banff, AB, Canada",
+    "date": "TBD 2016",
+    "raceType": "IronKids",
+    "latitude": 51.1783629,
+    "longitude": -115.5707694,
+    "type": "Ironman"
+  },
+  {
+    "name": "Sunshine Coast ",
+    "location": "Mooloolaba, Queensland, Australia",
+    "date": "TBD 2016",
+    "raceType": "IronKids",
+    "latitude": -26.6778695,
+    "longitude": 153.117347,
+    "type": "Ironman"
+  },
+  {
+    "name": "Sandy Hook ",
+    "location": "Sandy Hook, NJ., USA",
+    "date": "TBD 2016",
+    "raceType": "Iron Girl",
+    "latitude": 40.4781616,
+    "longitude": -74.0162658,
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS Wales ",
+    "location": "Pembrokeshire, Wales",
+    "date": "Sep 17th 2016",
+    "raceType": "IronKids",
+    "type": "Ironman"
+  },
+  {
+    "name": "Atlantic City ",
+    "location": "New Jersey",
+    "date": "Sep 18th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 40.0583238,
+    "longitude": -74.4056612,
+    "type": "Ironman"
+  },
+  {
+    "name": "Incheon ",
+    "location": "Korea",
+    "date": "TBD 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Wales ",
+    "location": "Pembrokeshire, Wales",
+    "date": "Sep 18th 2016",
+    "raceType": "IRONMAN",
+    "type": "Ironman"
+  },
+  {
+    "name": "Pula ",
+    "location": "Istria, Croatia",
+    "date": "Sep 18th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 45,
+    "longitude": 14,
+    "type": "Ironman"
+  },
+  {
+    "name": "Alpharetta ",
+    "location": "Alpharetta, GA, USA",
+    "date": "TBD 2016",
+    "raceType": "IronKids",
+    "latitude": 34.0753762,
+    "longitude": -84.2940899,
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS Mallorca ",
+    "location": "Mallorca, Spain",
+    "date": "Sep 23rd 2016",
+    "raceType": "IronKids",
+    "latitude": 39.6952629,
+    "longitude": 3.0175712,
+    "type": "Ironman"
+  },
+  {
+    "name": "Mallorca ",
+    "location": "Alcudia, Mallorca, Spain",
+    "date": "Sep 24th 2016",
+    "raceType": "IRONMAN",
+    "latitude": 39.8532672,
+    "longitude": 3.1240239,
+    "type": "Ironman"
+  },
+  {
+    "name": "Lanzarote ",
+    "location": "Lanzarote, Canary Islands, Spain",
+    "date": "Sep 24th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 29.0468535,
+    "longitude": -13.5899733,
+    "type": "Ironman"
+  },
+  {
+    "name": "Superfrog ",
+    "location": "Coronado, CA, USA",
+    "date": "Sep 24th 2016",
+    "raceType": "IronKids",
+    "type": "Ironman"
+  },
+  {
+    "name": "Augusta ",
+    "location": "Augusta, GA, USA",
+    "date": "Sep 24th 2016",
+    "raceType": "IronKids",
+    "latitude": 33.4734978,
+    "longitude": -82.0105148,
+    "type": "Ironman"
+  },
+  {
+    "name": "Chattanooga ",
+    "location": "Chattanooga, TN, USA",
+    "date": "Sep 24th 2016",
+    "raceType": "IronKids",
+    "latitude": 35.0456297,
+    "longitude": -85.3096801,
+    "type": "Ironman"
+  },
+  {
+    "name": "Chattanooga ",
+    "location": "Chattanooga, Tennessee",
+    "date": "Sep 25th 2016",
+    "raceType": "IRONMAN",
+    "latitude": 35.0456297,
+    "longitude": -85.3096801,
+    "type": "Ironman"
+  },
+  {
+    "name": "Korea ",
+    "location": "Gurye, Korea",
+    "date": "TBD 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Augusta ",
+    "location": "Augusta, Georgia, USA",
+    "date": "Sep 25th 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "SUPERFROG ",
+    "location": "Coronado, California",
+    "date": "Sep 25th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 32.6858853,
+    "longitude": -117.1830891,
+    "type": "Ironman"
+  },
+  {
+    "name": "Rio de Janeiro ",
+    "location": "Rio de Janeiro, Brazil",
+    "date": "Sep 25th 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Maryland ",
+    "location": "Cambridge, Maryland, USA",
+    "date": "Oct 1st 2016",
+    "raceType": "IRONMAN",
+    "latitude": 38.5631744,
+    "longitude": -76.0788292,
+    "type": "Ironman"
+  },
+  {
+    "name": "IRONKIDS Barcelona ",
+    "location": "Barcelona, Spain",
+    "date": "Oct 1st 2016",
+    "raceType": "IronKids",
+    "latitude": 41.3850639,
+    "longitude": 2.1734035,
+    "type": "Ironman"
+  },
+  {
+    "name": "Cozumel ",
+    "location": "Cozumel, Mexico",
+    "date": "Oct 2nd 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Taiwan ",
+    "location": "Penghu, Taiwan",
+    "date": "Oct 2nd 2016",
+    "raceType": "IRONMAN",
+    "type": "Ironman"
+  },
+  {
+    "name": "Barcelona ",
+    "location": "Calella, Spain",
+    "date": "Oct 2nd 2016",
+    "raceType": "IRONMAN",
+    "type": "Ironman"
+  },
+  {
+    "name": "Kailua-Kona ",
+    "location": "Kailua-Kona, HI USA",
+    "date": "TBD 2016",
+    "raceType": "IronKids",
+    "latitude": 19.639994,
+    "longitude": -155.9969261,
+    "type": "Ironman"
+  },
+  {
+    "name": "World Championship ",
+    "location": "Kailua-Kona, Hawaii, USA",
+    "date": "Oct 8th 2016",
+    "raceType": "IRONMAN",
+    "type": "Ironman"
+  },
+  {
+    "name": "Louisville ",
+    "location": "Louisville, KY, USA",
+    "date": "Oct 8th 2016",
+    "raceType": "IronKids",
+    "latitude": 38.2526647,
+    "longitude": -85.7584557,
+    "type": "Ironman"
+  },
+  {
+    "name": "Louisville ",
+    "location": "Louisville, Kentucky, USA",
+    "date": "Oct 9th 2016",
+    "raceType": "IRONMAN",
+    "latitude": 38.2526647,
+    "longitude": -85.7584557,
+    "type": "Ironman"
+  },
+  {
+    "name": "Tempe ",
+    "location": "Tempe, Arizona",
+    "date": "Oct 16th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 33.4255104,
+    "longitude": -111.9400054,
+    "type": "Ironman"
+  },
+  {
+    "name": "Hefei ",
+    "location": "Hefei, China",
+    "date": "Oct 16th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 31.820592,
+    "longitude": 117.227219,
+    "type": "Ironman"
+  },
+  {
+    "name": "North Carolina  ",
+    "location": "Wilmington, North Carolina, USA",
+    "date": "Oct 22nd 2016",
+    "raceType": "IRONMAN",
+    "latitude": 34.2257255,
+    "longitude": -77.9447102,
+    "type": "Ironman"
+  },
+  {
+    "name": "North Carolina ",
+    "location": "Wilmington, North Carolina, USA",
+    "date": "Oct 22nd 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 34.2257255,
+    "longitude": -77.9447102,
+    "type": "Ironman"
+  },
+  {
+    "name": "Miami ",
+    "location": "Miami, Florida, USA",
+    "date": "Oct 23rd 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Turkey ",
+    "location": "Belek, Antalya",
+    "date": "Oct 23rd 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Austin ",
+    "location": "Austin, Texas, USA",
+    "date": "Oct 30th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 30.267153,
+    "longitude": -97.7430608,
+    "type": "Ironman"
+  },
+  {
+    "name": "Los Cabos ",
+    "location": "Los Cabos, Mexico",
+    "date": "Oct 30th 2016",
+    "raceType": "IRONMAN",
+    "type": "Ironman"
+  },
+  {
+    "name": "Los Cabos ",
+    "location": "Los Cabos, Mexico",
+    "date": "Oct 30th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 22.8905327,
+    "longitude": -109.9167371,
+    "type": "Ironman"
+  },
+  {
+    "name": "Noosa Triathlon Multi Sport Festival ",
+    "location": "Queensland, Australia",
+    "date": "Oct 30th 2016",
+    "raceType": "Multisport Festivals",
+    "latitude": -20.9175738,
+    "longitude": 142.7027956,
+    "type": "Ironman"
+  },
+  {
+    "name": "Auckland Marathon ",
+    "location": "Auckland, New Zealand",
+    "date": "TBD 2016",
+    "raceType": "Multisport Festivals",
+    "latitude": -36.8484597,
+    "longitude": 174.7633315,
+    "type": "Ironman"
+  },
+  {
+    "name": "5150 Ekurhuleni African Championship ",
+    "location": "City of Ekurhuleni, Gauteng",
+    "date": "TBD 2016",
+    "raceType": "5i50",
+    "type": "Ironman"
+  },
+  {
+    "name": "Florida ",
+    "location": "Panama City Beach, FL, USA",
+    "date": "Nov 4th 2016",
+    "raceType": "IronKids",
+    "latitude": 30.1765914,
+    "longitude": -85.8054879,
+    "type": "Ironman"
+  },
+  {
+    "name": "Florida ",
+    "location": "Panama City Beach, Florida, USA",
+    "date": "Nov 5th 2016",
+    "raceType": "IRONMAN",
+    "latitude": 30.1765914,
+    "longitude": -85.8054879,
+    "type": "Ironman"
+  },
+  {
+    "name": "Mandurah ",
+    "location": "Mandurah, Western Australia",
+    "date": "TBD 2016",
+    "raceType": "IronKids",
+    "type": "Ironman"
+  },
+  {
+    "name": "Xiamen ",
+    "location": "Xiamen, China",
+    "date": "Nov 6th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 24.479834,
+    "longitude": 118.089425,
+    "type": "Ironman"
+  },
+  {
+    "name": "Austin ",
+    "location": "Austin, TX, USA",
+    "date": "TBD 2016",
+    "raceType": "IronKids",
+    "type": "Ironman"
+  },
+  {
+    "name": "Mandurah ",
+    "location": "Mandurah, Western Australia",
+    "date": "TBD 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": -32.5368093,
+    "longitude": 115.7427457,
+    "type": "Ironman"
+  },
+  {
+    "name": "5150 Bohol Philippines ",
+    "location": "Bohol, Philippines",
+    "date": "TBD 2016",
+    "raceType": "5i50",
+    "type": "Ironman"
+  },
+  {
+    "name": "Malaysia ",
+    "location": "Langkawi, Malaysia",
+    "date": "Nov 12th 2016",
+    "raceType": "IRONMAN",
+    "latitude": 6.35,
+    "longitude": 99.8,
+    "type": "Ironman"
+  },
+  {
+    "name": "Fortaleza ",
+    "location": "Fortaleza, Brazil",
+    "date": "Nov 13th 2016",
+    "raceType": "IRONMAN",
+    "latitude": -3.7318616,
+    "longitude": -38.5266704,
+    "type": "Ironman"
+  },
+  {
+    "name": "Arizona ",
+    "location": "Tempe, AZ, USA",
+    "date": "Nov 19th 2016",
+    "raceType": "IronKids",
+    "type": "Ironman"
+  },
+  {
+    "name": "Arizona ",
+    "location": "Tempe, Arizona, USA",
+    "date": "Nov 20th 2016",
+    "raceType": "IRONMAN",
+    "type": "Ironman"
+  },
+  {
+    "name": "Western Sydney ",
+    "location": "Penrith, New South Wales, Australia",
+    "date": "TBD 2016",
+    "raceType": "IronKids",
+    "latitude": -33.7521785,
+    "longitude": 150.6910467,
+    "type": "Ironman"
+  },
+  {
+    "name": "Cozumel ",
+    "location": "Cozumel, Mexico",
+    "date": "Nov 27th 2016",
+    "raceType": "IRONMAN",
+    "type": "Ironman"
+  },
+  {
+    "name": "Punta del Este ",
+    "location": "Punta del Este, Uruguay",
+    "date": "Nov 27th 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Thailand ",
+    "location": "Phuket, Thailand",
+    "date": "Nov 27th 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Western Sydney ",
+    "location": "Penrith, New South Wales, Australia",
+    "date": "TBD 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": -33.7521785,
+    "longitude": 150.6910467,
+    "type": "Ironman"
+  },
+  {
+    "name": "Cartagena ",
+    "location": "Cartagena, Colombia",
+    "date": "Dec 4th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": 10.3910485,
+    "longitude": -75.4794257,
+    "type": "Ironman"
+  },
+  {
+    "name": "Western Australia ",
+    "location": "Busselton, Western Australia",
+    "date": "Dec 4th 2016",
+    "raceType": "IRONMAN",
+    "latitude": -33.6499446,
+    "longitude": 115.3446115,
+    "type": "Ironman"
+  },
+  {
+    "name": "Busselton ",
+    "location": "Busselton, Western Australia",
+    "date": "TBD 2016",
+    "raceType": "IronKids",
+    "latitude": -33.6499446,
+    "longitude": 115.3446115,
+    "type": "Ironman"
+  },
+  {
+    "name": "Taupo Kids Fun Run ",
+    "location": "Taupo, New Zealand",
+    "date": "Dec 9th 2016",
+    "raceType": "IronKids",
+    "latitude": -38.6856924,
+    "longitude": 176.0702098,
+    "type": "Ironman"
+  },
+  {
+    "name": "Taupo ",
+    "location": "New Zealand",
+    "date": "Dec 10th 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Bahrain ",
+    "location": "Manama, Bahrain",
+    "date": "Dec 10th 2016",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Ballarat ",
+    "location": "Ballarat, Victoria, Australia",
+    "date": "Dec 10th 2016",
+    "raceType": "IronKids",
+    "latitude": -37.5636495,
+    "longitude": 143.8671868,
+    "type": "Ironman"
+  },
+  {
+    "name": "Ballarat ",
+    "location": "Ballarat, Victoria, Australia",
+    "date": "Dec 11th 2016",
+    "raceType": "IRONMAN 70.3",
+    "latitude": -37.5636495,
+    "longitude": 143.8671868,
+    "type": "Ironman"
+  },
+  {
+    "name": "Pucon ",
+    "location": "Pucon, Chile",
+    "date": "Jan 15th 2017",
+    "raceType": "IRONMAN 70.3",
+    "type": "Ironman"
+  },
+  {
+    "name": "Knoxville",
+    "date": "May 22nd 2016",
+    "type": "Rev3",
+    "latitude": 35.9728,
+    "longitude": -83.9422
+  },
+  {
+    "name": "Quassy",
+    "type": "Rev3",
+    "date": "June 4th 2016",
+    "latitude": 41.5275,
+    "longitude": -73.1233
+  },
+  {
+    "name": "Westfields",
+    "type": "Rev3",
+    "date": "May 1st 2016",
+    "latitude": 38.0737,
+    "longitude": -78.4856
+  },
+  {
+    "name": "Poconos Mountains",
+    "type": "Rev3",
+    "date": "Aug 2nd 2016",
+    "latitude": 41.0419,
+    "longitude": -75.3458
+  },
+  {
+    "name": "Williamsburg",
+    "type": "Rev3",
+    "date": "July 10th 2016",
+    "latitude": 37.2708,
+    "longitude": -76.7069
+  },
+  {
+    "name": "Cedar Point",
+    "type": "Rev3",
+    "date": "Sept 10th 2016",
+    "latitude": 41.4467,
+    "longitude": -82.7092
+  },
+  {
+    "name": "Maine",
+    "type": "Rev3",
+    "date": "Aug 28th 2016",
+    "latitude": 43.5136,
+    "longitude": -70.3853
+  },
+  {
+    "name": "Syracuse 70.3",
+    "type": "Ironman",
+    "date": "June 16, 2016",
+    "cost": "$285",
+    "attendance": "2026",
+    "eventWebsite": "http://www.ironman.com/triathlon/events/americas/ironman-70.3/syracuse",
+    "location": {
+      "address": "",
+      "title": "Syracuse, NY"
+    },
+    "latitude": 43.0469,
+    "longitude": -76.1444
+  },
+  {
+    "name": "Escape From Alcatraz",
+    "type": "escape_from_alcatraz",
+    "latitude": 37.8267,
+    "longitude": -122.4233
+  },
+  {
+    "name": "Lake Belton",
+    "location": "Temple, TX",
+    "date": "April 17th 2016",
+    "raceType": "MLT",
+    "latitude": 31.0936,
+    "longitude": -97.3622,
+    "type": "mlt"
+  },
+  {
+    "name": "Nathan Benderson Park",
+    "location": "Sarasota, FL",
+    "date": "June 19th 2016",
+    "raceType": "MLT",
+    "latitude": 27.3372,
+    "longitude": -82.5353,
+    "type": "mlt"
+  },
+  {
+    "name": "Holmes Lake Park",
+    "location": "Lincoln, NE",
+    "date": "Aug 28th 2016",
+    "raceType": "MLT",
+    "latitude": 40.8106,
+    "longitude": -96.6803,
+    "type": "mlt"
+  },
+  {
+    "name": "Riverbank Park",
+    "location": "Westbrook, ME",
+    "date": "Sept 11th 2016",
+    "raceType": "MLT",
+    "latitude": 43.6853,
+    "longitude": -70.3572,
+    "type": "mlt"
+  }
+]

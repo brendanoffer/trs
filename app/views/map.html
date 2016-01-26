@@ -1,0 +1,38 @@
+<div ng-controller="MapController as map">
+
+  <div class="row">
+    <div class="col-md-8">
+      <triathlon-map node-click="map.nodeClick(node)"></triathlon-map>
+    </div>
+    <div class="col-md-4">
+      <div ng-if="map.node" class="panel panel-danger">
+        <div class="panel-heading">
+          <h3 class="panel-title">
+            <b><a ng-href="{{map.node.eventWebsite}}">{{map.node.name}}</a></b>
+            <div class="pull-right">
+              <a ng-href="{{map.organizerWebsite}}"><img height="17" src="{{map.organizerLogo}}"/></a>
+            </div>
+          </h3>
+        </div>
+        <div class="panel-body">
+          <div class="row">
+            <div class="col-md-8">
+              {{map.node.raceType ? map.node.raceType : "" }}
+            </div>
+            <div class="col-md-4">
+              <div class="pull-right">
+                {{map.node.date}}
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <div id="race-info-box">
+
+      </div>
+    </div>
+  </div>
+
+</div>
